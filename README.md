@@ -11,9 +11,10 @@ I like exploring Github a lot and have a passionate hobby for game dev and other
 - I hope to make shorter games and gadgets for now. I don't plan on any huge project as of current day.
 
 Computer specs
-- OS: Linux Mint 21.3 Cinnamon EDGE as a daily driver with Windows 11 dual-boot jic
+- OS: Windows 11 / Linux Mint 21.3 Cinnamon EDGE dual-boot
 - CPU: AMD Ryzen 5 5600X
 - GPU: NVIDIA GeForce RTX 3060 Ti
-- RAM: 32GB DDR4-3200
+- RAM: 32GB DDR4-3600
 - PSU: EVGA 650W PSU
+- Motherboard: ASRock B550M Pro4
 
