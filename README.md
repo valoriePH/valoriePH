@@ -3,17 +3,16 @@ I like exploring Github a lot and have a passionate hobby for game dev and other
 <3
   
 - Learning how to use Godot, work in Linux, Lua and Python scripting, etc
-- You can reach me over on my Bluesky (valorieph) or cohost (princeharweda)
-- She / they
+- You can find me on Bluesky if you would like to chat!
+- 
 
 - Scripting and writing code is done purely as a hobbyist activity for me.
 - Junior level programmer, knows Python, Lua, GDScript. Understands fundamentals to adapt to many other languages if needed
 - Worked with Linux desktop distros including Mint, Ubuntu.
-- I hope to make shorter games and gadgets for now. I don't plan on any huge project as of current day.
 
 Computer specs
 - OS: Windows 11
-- CPU: AMD Ryzen 5 5600X 6c12t CPU
+- CPU: AMD Ryzen 5 5900X
 - GPU: NVIDIA GeForce RTX 3060 Ti
 - RAM: 32GB DDR4-3600
 - PSU: EVGA 650W PSU
