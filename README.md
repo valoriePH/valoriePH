@@ -4,7 +4,6 @@ I like exploring Github a lot and have a passionate hobby for game dev and other
   
 - Learning how to use Godot, work in Linux, Lua and Python scripting, etc
 - You can find me on Bluesky if you would like to chat!
-- 
 
 - Scripting and writing code is done purely as a hobbyist activity for me.
 - Junior level programmer, knows Python, Lua, GDScript. Understands fundamentals to adapt to many other languages if needed
