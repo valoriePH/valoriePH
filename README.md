@@ -10,7 +10,6 @@ I like exploring Github a lot and have a passionate hobby for game dev and other
 - Worked with Linux desktop distros including Mint, Ubuntu.
 
 Computer specs
-- OS: Windows 11
 - CPU: AMD Ryzen 5 5900X
 - GPU: NVIDIA GeForce RTX 3060 Ti
 - RAM: 32GB DDR4-3600
